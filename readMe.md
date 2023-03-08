@@ -5,7 +5,7 @@
 Coffee Engine is a in-house (2D and maybe in the future 3D) game engine developed by ObviousStudios and ObviousAlexC.
 
 ## Support.
-For email support contact OfficialObviousStudios@gmail.com via email,
+For email support contact ObviousStudiosOfficial@gmail.com via email,
 or ObviousAlexC#4269 on the [Official Obvious Studios Discord](https://discord.com/invite/WSRbDkqqqe)
 
 ## Features in development right now
