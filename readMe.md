@@ -20,9 +20,14 @@ or ObviousAlexC#4269 on the [Official Obvious Studios Discord](https://discord.c
 
 # Contributing!
 You are allowed to contribute to coffee engine but you have to follow some basic rules
-## Node JS is prohibited in the main repo
-There is a good reason behind this as coffee engine is built to be as portable as possible and node would only make that mission harder.
+## Javascript packages are not allowed in the main repo.
+There is a good reason behind this as coffee engine is built to be as portable and minimal as possible.
 ## No purposely making Security Vulnerabilities
 This one is pretty self explanatory as this would only hurt the engine and not help it!
 ## Commenting
 Commenting is encouraged for when you contribute code to the engine! But it might be a good idea to add a signature at the end of your comment to let people know who edited what last.
+## Optimization
+If you see a bit of code that needs or could be optimized please optimize it and create a pull request on the main repo! Your help is really appreciated!
+
+# Feature Requests
+Feature Requests should be suggested in the discussions tab with the correct label.
