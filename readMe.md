@@ -11,6 +11,7 @@ or ObviousAlexC#4269 on the [Official Obvious Studios Discord](https://discord.c
  - [x] Github Repository :: Done
  - [x] Canvas 2D Renderer :: Almost Done
  - [ ] Collision System :: In development
+ - [ ] Matrix Library :: In development
  - [ ] More built in components :: In development
  - [ ] WebGL Renderer :: Not Started
  - [ ] Tilemap System :: Not Started
